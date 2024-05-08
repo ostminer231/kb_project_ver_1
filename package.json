@@ -1,0 +1,23 @@
+{
+  "name": "kb_project_ver_1",
+  "version": "1.0.0",
+  "description": "Denis Abdulov",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ostminer231/kb_project_ver_1.git"
+  },
+  "author": "ostminer231",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ostminer231/kb_project_ver_1/issues"
+  },
+  "homepage": "https://github.com/ostminer231/kb_project_ver_1#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
